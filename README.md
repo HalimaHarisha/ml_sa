@@ -20,7 +20,10 @@ plt.title('Cylinder vs Co2Emission')
 plt.show()
 ```
 # OUTPUT
-<img width="523" height="420" alt="image" src="https://github.com/user-attachments/assets/9b789f0a-48d6-49ba-86fa-e1e070f4116a" />
+
+
+<img width="724" height="565" alt="image" src="https://github.com/user-attachments/assets/97524ba5-01f0-4f40-8014-a0eab3680c04" />
+
 
 
 # QUESTION NO :02
@@ -47,7 +50,10 @@ plt.legend()
 plt.show()
 ```
 # OUTPUT
-<img width="755" height="606" alt="image" src="https://github.com/user-attachments/assets/8183fcf7-f9e9-41c5-8c93-1d0217634551" />
+
+<img width="721" height="570" alt="image" src="https://github.com/user-attachments/assets/bd175002-d2a6-4a66-ba86-64eaf97523e0" />
+
+
 
 
 # QUESTION NO :03 
@@ -76,7 +82,10 @@ plt.legend()
 plt.show()
 ```
  # OUTPUT
- <img width="721" height="608" alt="image" src="https://github.com/user-attachments/assets/9f973e75-6b03-4696-86df-4fffdee810e8" />
+
+ <img width="719" height="632" alt="image" src="https://github.com/user-attachments/assets/b93a870d-afd9-4a52-9194-d500fb77410b" />
+
+
 
 
 # QUESTION NO :04 
@@ -116,7 +125,9 @@ plt.show()
 ```
 # OUTPUT
 
-<img width="733" height="625" alt="image" src="https://github.com/user-attachments/assets/ed3d7212-35ef-4fb3-b237-129ae248ac8a" />
+
+<img width="729" height="629" alt="image" src="https://github.com/user-attachments/assets/a081953c-554c-4667-aeb4-32f22a39b888" />
+
 
 # QUESTION NO :05
 
@@ -156,7 +167,10 @@ plt.title('Linear Regression: FuelConsumption_comb vs Co2Emission')
 plt.show()
 ```
 # OUTPUT
-<img width="689" height="579" alt="image" src="https://github.com/user-attachments/assets/968a493b-56f1-4914-8338-c1eb33753dd2" />
+
+<img width="740" height="566" alt="image" src="https://github.com/user-attachments/assets/25a3dab1-54a2-4af4-9906-825cf92d106d" />
+
+
 
 # QUESTION NO:06
  Train your model on different train test ratio and train the models and note down their accuracies
