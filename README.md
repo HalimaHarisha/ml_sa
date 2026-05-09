@@ -191,6 +191,10 @@ for ratio in ratios:
     print()
 ```
 
+# OUTPUT
+
+<img width="295" height="199" alt="image" src="https://github.com/user-attachments/assets/b9bce43a-cb4e-4c30-9355-ba33ebea2fa0" />
+
 
 
 
