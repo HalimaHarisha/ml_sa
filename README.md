@@ -20,7 +20,8 @@ plt.title('Cylinder vs Co2Emission')
 plt.show()
 ```
 # OUTPUT
-<img width="695" height="545" alt="image" src="https://github.com/user-attachments/assets/8b5352be-f84a-4b92-9e23-441883295f4b" />
+<img width="523" height="420" alt="image" src="https://github.com/user-attachments/assets/9b789f0a-48d6-49ba-86fa-e1e070f4116a" />
+
 
 # QUESTION NO :02
 Using scatter plot compare data   cylinder vs Co2Emission and Enginesize Vs Co2Emission using different colors
@@ -46,7 +47,8 @@ plt.legend()
 plt.show()
 ```
 # OUTPUT
-<img width="729" height="528" alt="image" src="https://github.com/user-attachments/assets/91ad73f5-6bdb-41e8-b556-1f02acf0e75c" />
+<img width="755" height="606" alt="image" src="https://github.com/user-attachments/assets/8183fcf7-f9e9-41c5-8c93-1d0217634551" />
+
 
 # QUESTION NO :03 
 Using scatter plot compare data   cylinder vs Co2Emission and Enginesize Vs Co2Emission and FuelConsumption_comb Co2Emission using different colors
@@ -74,7 +76,8 @@ plt.legend()
 plt.show()
 ```
  # OUTPUT
- <img width="670" height="511" alt="image" src="https://github.com/user-attachments/assets/021a17ae-dd51-4824-bedc-6a8f68217328" />
+ <img width="721" height="608" alt="image" src="https://github.com/user-attachments/assets/9f973e75-6b03-4696-86df-4fffdee810e8" />
+
 
 # QUESTION NO :04 
 Train your model with independent variable as cylinder and dependent variable as Co2Emission
@@ -112,7 +115,9 @@ plt.title('Linear Regression: Cylinder vs Co2Emission')
 plt.show()
 ```
 # OUTPUT
-<img width="711" height="592" alt="image" src="https://github.com/user-attachments/assets/a9b86df7-9e0f-406b-9bd4-cbc3ee3c5267" />
+
+<img width="733" height="625" alt="image" src="https://github.com/user-attachments/assets/ed3d7212-35ef-4fb3-b237-129ae248ac8a" />
+
 # QUESTION NO :05
 
 Train another model with independent variable as FuelConsumption_comb and dependent variable as Co2Emission
@@ -193,7 +198,8 @@ for ratio in ratios:
 
 # OUTPUT
 
-<img width="295" height="199" alt="image" src="https://github.com/user-attachments/assets/b9bce43a-cb4e-4c30-9355-ba33ebea2fa0" />
+<img width="466" height="296" alt="image" src="https://github.com/user-attachments/assets/a821f425-9f3e-4a5b-beb1-35608bb7065c" />
+
 
 
 
