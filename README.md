@@ -114,7 +114,9 @@ plt.show()
 # OUTPUT
 <img width="711" height="592" alt="image" src="https://github.com/user-attachments/assets/a9b86df7-9e0f-406b-9bd4-cbc3ee3c5267" />
 # QUESTION NO :05
+
 Train another model with independent variable as FuelConsumption_comb and dependent variable as Co2Emission
+
 # PROGRAM
 ```
 import pandas as pd
@@ -188,5 +190,9 @@ for ratio in ratios:
     print("Accuracy:", accuracy)
     print()
 ```
-# OUTPUT
-<img width="295" height="199" alt="image" src="https://github.com/user-attachments/assets/aefdf6f4-e0ce-41a9-9543-335ec990e74d" />
+
+
+
+
+
+
