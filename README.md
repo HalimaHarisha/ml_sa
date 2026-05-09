@@ -83,7 +83,8 @@ plt.show()
 ```
  # OUTPUT
 
- <img width="719" height="632" alt="image" src="https://github.com/user-attachments/assets/b93a870d-afd9-4a52-9194-d500fb77410b" />
+<img width="727" height="580" alt="image" src="https://github.com/user-attachments/assets/b8a64df4-adae-44a8-b810-36e3d67b1491" />
+
 
 
 
@@ -168,7 +169,8 @@ plt.show()
 ```
 # OUTPUT
 
-<img width="740" height="566" alt="image" src="https://github.com/user-attachments/assets/25a3dab1-54a2-4af4-9906-825cf92d106d" />
+<img width="730" height="630" alt="image" src="https://github.com/user-attachments/assets/28e55f5c-442a-4060-8454-87a638a354f9" />
+
 
 
 
